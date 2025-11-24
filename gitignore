@@ -1,0 +1,55 @@
+# -----------------------------
+# Carbon-Aware Scheduler Repo
+# .gitignore
+# -----------------------------
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_convert/
+*.nbconvert/
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Data files (large or user-provided)
+*.csv
+*.parquet
+*.xlsx
+*.xls
+*.json
+
+# Research artifacts
+research/artifacts/*.html
+research/artifacts/*.png
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Kaggle / Colab uploads
+*.zip
+*.tar
+*.gz
