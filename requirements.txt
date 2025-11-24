@@ -1,0 +1,14 @@
+﻿Core Data Science & Visualization
+pandas>=2.0.0
+matplotlib>=3.7.0
+requests>=2.31.0
+
+Exploratory Data Analysis (For Research Notebook)
+ydata-profiling>=4.6.0
+
+Agentic Frameworks & Logic (For Src Notebook)
+langgraph>=0.0.10
+
+Notebook Environment
+jupyter>=1.0.0
+ipykernel>=6.0.0
